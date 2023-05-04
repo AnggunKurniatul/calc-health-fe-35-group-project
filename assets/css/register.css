@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    color: #006D75;
+}
+form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);
+    padding: 10px 40px;
+    margin: 10px 350px;
+}
+
+.form{
+    color: #11999E;
+}
+
+.check{
+    display: flex;
+    flex-direction: row;
+}
+
+#daftar{
+    display: flex;
+    justify-content: center;
+    background: #36CFC9;
+    color: #FFFFFF;
+    border-radius: 8px;
+    border: none;
+    padding: 10px 10px;
+    width: 200px;
+    margin: auto 130px;
+}
